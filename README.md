@@ -1,8 +1,10 @@
 ## ASCII UML
 
 There has been trend in software development to present non-code artifact via plain text, often called ASCII.
+Because ASCII has been the most used encoding, and it became part of Unicode, 
+and UTF-8 has the exactly the same codes.
 
-ASCII use has been extended for general graphics (see <http://asciiflow.com>) 
+ASCII usage has been extended for general graphics, often called AsciiArt (see <http://asciiflow.com>, <http://www.jave.de/>) 
 and UML( e.g. 
 [PlantUML](http://plantuml.com)
 [TextUML](http://abstratt.github.io/textuml/readme.html) ([mp](https://marketplace.eclipse.org/content/textuml-toolkit))
