@@ -11,7 +11,10 @@ and UML, e.g.
 .
 
 PlantUML is the most rich. TextUML is for class diagrams only. 
-See also <https://github.com/bramp/js-sequence-diagrams>, web tool for sequence diagram.
+For web tool for sequence diagram
+see <https://github.com/bramp/js-sequence-diagrams>
+and <http://sequencediagram.org> (PlantUML syntax) with additional drag-n-drop of image elements on the right side.
+
 
 
 ### Tooling
