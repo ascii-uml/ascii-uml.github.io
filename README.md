@@ -1,14 +1,17 @@
 ## ASCII UML
 
-There has been trend in software development to present non-code artifact via plain text, often called ASCII.
+There has been a trend in software development to present non-code artifact via plain text, often called ASCII.
 Because ASCII has been the most used encoding, and it became part of Unicode, 
 and UTF-8 has the exactly the same codes.
 
 ASCII usage has been extended for general graphics, often called AsciiArt (see <http://asciiflow.com>, <http://www.jave.de/>) 
-and UML( e.g. 
-[PlantUML](http://plantuml.com)
+and UML, e.g. 
+[PlantUML](http://plantuml.com),
 [TextUML](http://abstratt.github.io/textuml/readme.html) ([mp](https://marketplace.eclipse.org/content/textuml-toolkit))
-) .
+.
+
+PlantUML is the most rich. TextUML is for class diagrams only. 
+See also <https://github.com/bramp/js-sequence-diagrams>, web tool for sequence diagram.
 
 
 ### Tooling
@@ -17,7 +20,7 @@ and UML( e.g.
 
 ![](images/ASCII-UML-logo.png)
 
-This mini-site provide Eclipse update site under `https://ascii-uml.github.io/eclipse/`  
+This mini-site provides Eclipse update site under `https://ascii-uml.github.io/eclipse/`  
 and [marketplace entry](https://marketplace.eclipse.org/content/ascii-uml-asciidoc-editor-plantuml-plugin)
 [![Drag onto running Eclipse main toolbar. *Requires Eclipse Marketplace Client](https://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=4120961 "Drag onto running Eclipse main toolbar. *Requires Eclipse Marketplace Client"),
 that includes 2 plugins:
