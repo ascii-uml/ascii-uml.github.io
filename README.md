@@ -15,7 +15,11 @@ and UML( e.g.
 
 ##### Eclipse
 
-This mini-site provide Eclipse update site under `https://ascii-uml.github.io/eclipse/`,
+![](images/ASCII-UML-logo.png)
+
+This mini-site provide Eclipse update site under `https://ascii-uml.github.io/eclipse/`  
+and [marketplace entry](https://marketplace.eclipse.org/content/ascii-uml-asciidoc-editor-plantuml-plugin)
+[![Drag onto running Eclipse main toolbar. *Requires Eclipse Marketplace Client](https://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=4120961 "Drag onto running Eclipse main toolbar. *Requires Eclipse Marketplace Client"),
 that includes 2 plugins:
 
 - Asciidoctor Editor ( <https://github.com/de-jcup/eclipse-asciidoctor-editor> )
