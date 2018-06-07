@@ -39,3 +39,13 @@ that includes 2 plugins:
 Several, e.g. <https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml> ( <https://github.com/qjebbs/vscode-plantuml> )
 
 ![](https://raw.githubusercontent.com/qjebbs/vscode-plantuml/master/images/auto_update_demo.gif)
+
+##### Web/Online
+
+- <http://sequencediagram.org>
+- <https://www.websequencediagrams.com/>
+
+
+This mini-site is created by  
+Paul Verest.  
+2018
