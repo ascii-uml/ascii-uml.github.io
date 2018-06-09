@@ -1,4 +1,4 @@
-## ASCII UML
+# ASCII UML
 
 There has been a trend in software development to present non-code artifact via plain text, often called ASCII.
 Because ASCII has been the most used encoding, and it became part of Unicode, 
@@ -17,9 +17,12 @@ and <http://sequencediagram.org> (PlantUML syntax) with additional drag-n-drop o
 
 
 
-### Tooling
+## Tooling
 
-##### Eclipse
+Prerequisite. For local editing you need Graphviz [downloaded](https://www.graphviz.org/download/), extracted into a folder,
+and `GRAPHVIS_DOT` environment variable having full path and name to `dot` executable.
+
+#### Eclipse
 
 ![](images/ASCII-UML-logo.png)
 
@@ -34,13 +37,13 @@ that includes 2 plugins:
 ![](https://user-images.githubusercontent.com/11644753/40945905-039f7ddc-685b-11e8-854d-eed6b89ea3a4.png)
 
 
-##### VSCode
+#### VSCode
  
 Several, e.g. <https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml> ( <https://github.com/qjebbs/vscode-plantuml> )
 
 ![](https://raw.githubusercontent.com/qjebbs/vscode-plantuml/master/images/auto_update_demo.gif)
 
-##### Web/Online
+#### Web/Online
 
 - <http://sequencediagram.org>
 - <https://www.websequencediagrams.com/>
