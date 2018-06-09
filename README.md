@@ -43,6 +43,8 @@ Several, e.g. <https://marketplace.visualstudio.com/items?itemName=jebbs.plantum
 
 ![](https://raw.githubusercontent.com/qjebbs/vscode-plantuml/master/images/auto_update_demo.gif)
 
+#### Atom
+
 - <https://github.com/shd101wyy/markdown-preview-enhanced> also can render within markdown, see 
 [`diagrams.md`](https://github.com/shd101wyy/markdown-preview-enhanced/blob/master/docs/diagrams.md).
 
