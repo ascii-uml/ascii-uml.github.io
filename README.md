@@ -19,7 +19,7 @@ and <http://sequencediagram.org> (PlantUML syntax) with additional drag-n-drop o
 
 ## Tooling
 
-Prerequisite. For local editing you need Graphviz [downloaded](https://www.graphviz.org/download/), extracted into a folder,
+**Prerequisite**. For local preview you need Graphviz [downloaded](https://www.graphviz.org/download/), extracted into a folder,
 and `GRAPHVIS_DOT` environment variable having full path and name to `dot` executable.
 
 #### Eclipse
