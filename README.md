@@ -51,6 +51,12 @@ Several, e.g. <https://marketplace.visualstudio.com/items?itemName=jebbs.plantum
 - <https://www.websequencediagrams.com/>
 
 
+## Links
+
+- https://modeling-languages.com/text-uml-tools-complete-list/#yUML
+
+[Edit this page](https://github.com/ascii-uml/ascii-uml.github.io/edit/master/README.md)
+
 This mini-site is created by  
 Paul Verest.  
 2018
