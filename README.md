@@ -46,6 +46,7 @@ Several, e.g. <https://marketplace.visualstudio.com/items?itemName=jebbs.plantum
 #### Web/Online
 
 - <http://www.plantuml.com/plantuml>
+- <https://www.planttext.com/>
 - <http://sequencediagram.org>
 - <https://www.websequencediagrams.com/>
 
