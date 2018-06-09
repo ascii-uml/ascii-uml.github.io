@@ -43,6 +43,11 @@ Several, e.g. <https://marketplace.visualstudio.com/items?itemName=jebbs.plantum
 
 ![](https://raw.githubusercontent.com/qjebbs/vscode-plantuml/master/images/auto_update_demo.gif)
 
+- <https://github.com/shd101wyy/markdown-preview-enhanced> also can render within markdown, see 
+[`diagrams.md`](https://github.com/shd101wyy/markdown-preview-enhanced/blob/master/docs/diagrams.md).
+
+![](https://user-images.githubusercontent.com/1908863/33236972-4f190f98-d22a-11e7-842f-d9c4a74d2118.png)
+
 #### Web/Online
 
 - <http://www.plantuml.com/plantuml>
