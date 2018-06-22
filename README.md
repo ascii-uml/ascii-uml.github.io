@@ -22,7 +22,7 @@ and <http://sequencediagram.org> (PlantUML syntax) with additional drag-n-drop o
 **Prerequisite**. For local preview you need Graphviz [downloaded](https://www.graphviz.org/download/), extracted into a folder,
 and `GRAPHVIS_DOT` environment variable having full path and name to `dot` executable.
 
-#### Eclipse
+### Eclipse
 
 ![](images/ASCII-UML-logo.png)
 
@@ -37,14 +37,14 @@ that includes 2 plugins:
 ![](https://user-images.githubusercontent.com/11644753/40945905-039f7ddc-685b-11e8-854d-eed6b89ea3a4.png)
 
 
-#### VSCode
+### VSCode
  
 Several, e.g. <https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml> ( <https://github.com/qjebbs/vscode-plantuml> )
 
 ![](https://raw.githubusercontent.com/qjebbs/vscode-plantuml/master/images/auto_update_demo.gif)
 
 
-#### Atom & VSCode
+### Atom & VSCode
 
 - <https://github.com/shd101wyy/markdown-preview-enhanced>
 - <https://github.com/shd101wyy/vscode-markdown-preview-enhanced>
@@ -53,7 +53,7 @@ Several, e.g. <https://marketplace.visualstudio.com/items?itemName=jebbs.plantum
 
 ![](https://user-images.githubusercontent.com/1908863/33236972-4f190f98-d22a-11e7-842f-d9c4a74d2118.png)
 
-#### Web/Online
+### Web/Online
 
 - <http://www.plantuml.com/plantuml>
 - <https://www.planttext.com/>
