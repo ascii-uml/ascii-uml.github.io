@@ -26,7 +26,8 @@ and `GRAPHVIS_DOT` environment variable having full path and name to `dot` execu
 
 ![](images/ASCII-UML-logo.png)
 
-This mini-site provides Eclipse update site under `https://ascii-uml.github.io/eclipse/`  
+This mini-site provides Eclipse update site under  
+`https://ascii-uml.github.io/eclipse/`  
 and [marketplace entry](https://marketplace.eclipse.org/content/ascii-uml-asciidoc-editor-plantuml-plugin)
 [![Drag onto running Eclipse main toolbar. *Requires Eclipse Marketplace Client](https://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=4120961 "Drag onto running Eclipse main toolbar. *Requires Eclipse Marketplace Client"),
 that includes 2 plugins:
