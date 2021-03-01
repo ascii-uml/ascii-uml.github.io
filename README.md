@@ -22,6 +22,13 @@ and <http://sequencediagram.org> (PlantUML syntax) with additional drag-n-drop o
 **Prerequisite**. For local preview you need Graphviz [downloaded](https://www.graphviz.org/download/), extracted into a folder,
 and `GRAPHVIS_DOT` environment variable having full path and name to `dot` executable.
 
+### IDEA
+
+IDEA (Ultimate and CE) has Markdown plugin that can have PlantUML support enabled.
+In the **Settings/Preferences** dialog <kbd>⌘,</kbd>, 
+select **Languages & Frameworks** | Markdown.
+(https://www.jetbrains.com/help/idea/markdown.html#diagrams)
+
 ### Eclipse
 
 ![](images/ASCII-UML-logo.png)
