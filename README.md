@@ -19,8 +19,8 @@ and <http://sequencediagram.org> (PlantUML syntax) with additional drag-n-drop o
 
 ## Tooling for PlantUML
 
-**Prerequisite**. For local preview you need [download/install Graphviz](https://www.graphviz.org/download/).
-Possibly `GRAPHVIS_DOT` environment variable having full path and name to `dot` executable.
+**Prerequisite**. For local preview you need to [download/install Graphviz](https://www.graphviz.org/download/).  
+And possibly `GRAPHVIS_DOT` environment variable having full path and name to `dot` executable.
 
 ### IDEA
 
