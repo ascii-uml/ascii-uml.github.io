@@ -6,8 +6,9 @@ and UTF-8 has the exactly the same codes.
 
 ASCII usage has been extended for general graphics, often called AsciiArt (see <http://asciiflow.com>, <http://www.jave.de/>) 
 and UML, e.g. 
-[PlantUML](http://plantuml.com),
-[TextUML](http://abstratt.github.io/textuml/readme.html) ([mp](https://marketplace.eclipse.org/content/textuml-toolkit))
+- [PlantUML](http://plantuml.com),
+- [TextUML](http://abstratt.github.io/textuml/readme.html) ([mp](https://marketplace.eclipse.org/content/textuml-toolkit)),
+- [Mermaid](https://mermaid-js.github.io/mermaid/#/)
 .
 
 PlantUML is the most rich. TextUML is for class diagrams only. 
