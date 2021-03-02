@@ -17,10 +17,10 @@ and <http://sequencediagram.org> (PlantUML syntax) with additional drag-n-drop o
 
 
 
-## Tooling
+## Tooling for PlantUML
 
-**Prerequisite**. For local preview you need Graphviz [downloaded](https://www.graphviz.org/download/), extracted into a folder,
-and `GRAPHVIS_DOT` environment variable having full path and name to `dot` executable.
+**Prerequisite**. For local preview you need [download/install Graphviz](https://www.graphviz.org/download/).
+Possibly `GRAPHVIS_DOT` environment variable having full path and name to `dot` executable.
 
 ### IDEA
 
@@ -28,6 +28,7 @@ IDEA (Ultimate and CE) has Markdown plugin that can have PlantUML support enable
 In the **Settings/Preferences** dialog <kbd>⌘,</kbd>, 
 select **Languages & Frameworks** | Markdown.
 (https://www.jetbrains.com/help/idea/markdown.html#diagrams)
+However that will do only sequence diagram, and all types of diagram install ["PLantUML integration" plugin](https://plugins.jetbrains.com/plugin/7017-plantuml-integration).
 
 ### Eclipse
 
@@ -77,4 +78,4 @@ Several, e.g. <https://marketplace.visualstudio.com/items?itemName=jebbs.plantum
 
 This mini-site is created by  
 Paul Verest.  
-2018
+2018-2021
