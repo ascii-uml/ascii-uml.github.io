@@ -28,8 +28,8 @@ And possibly `GRAPHVIS_DOT` environment variable having full path and name to `d
 IDEA (Ultimate and CE) has Markdown plugin that can have PlantUML support enabled.
 In the **Settings/Preferences** dialog <kbd>⌘,</kbd>, 
 select **Languages & Frameworks** | Markdown.
-(https://www.jetbrains.com/help/idea/markdown.html#diagrams)
-However that will do only sequence diagram, and all types of diagram install ["PLantUML integration" plugin](https://plugins.jetbrains.com/plugin/7017-plantuml-integration).
+(<https://www.jetbrains.com/help/idea/markdown.html#diagrams>)
+However that will do only sequence diagram, and for all other types of diagram install ["PLantUML integration" plugin](https://plugins.jetbrains.com/plugin/7017-plantuml-integration).
 
 ### Eclipse
 
